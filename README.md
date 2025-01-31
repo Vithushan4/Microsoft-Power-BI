@@ -12,6 +12,9 @@ This Power BI dashboard analyzes the average essential costs of living before an
 - **Key Findings:** Significant rise in essential costs, with energy prices peaking in 2022
 - **Challenges Observed:** Initial difficulty navigating Power BI’s interface, which became easier with experience
 
+## Written Report
+For a detailed breakdown of the analysis please refer to the written report, that is attached in the files section of this repository. This reports provide deeper insights into the data, analysis techniques, and findings. 
+
 ## View the Dashboard
 Please [click here](https://app.powerbi.com/view?r=eyJrIjoiYmQ1YzgxMGYtOWI3My00MmI1LWE3YWItOWQyNDM4NmY1YTBmIiwidCI6IjUxY2NhMGUxLTJkNWEtNGQxYi1hYTlhLWRkYWFhNzhhZWVjMiJ9) to view and interact with the Power BI Dashboard. 
 
@@ -32,6 +35,9 @@ Key Focus Areas:
 - **Findings:**
   - Some programs had high enrollment but a declining trend, while others had low enrollment but increasing interest.
   - Undergraduate programs were generally more popular than graduate programs.
+
+## Written Report
+For a detailed breakdown of the analysis please refer to the written report, that is attached in the files section of this repository. This reports provide deeper insights into the data, analysis techniques, and findings. 
 
 ## View the Dashboard
 Please [click here](https://app.fabric.microsoft.com/view?r=eyJrIjoiZTBiMzg5NDctZTlkNi00NzBhLTkxNTgtMjQyOTRjZTdmN2ZiIiwidCI6IjUxY2NhMGUxLTJkNWEtNGQxYi1hYTlhLWRkYWFhNzhhZWVjMiJ9) to view and interact with the Power BI Dashboard.

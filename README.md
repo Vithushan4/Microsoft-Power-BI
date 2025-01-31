@@ -14,6 +14,13 @@ Please [click here](https://app.powerbi.com/view?r=eyJrIjoiYmQ1YzgxMGYtOWI3My00M
 
 
 # FBIT Enrollment Trends at Ontario Tech University
-This dashboard was created to analyze and compare the enrollment trends in the Faculty of Business and IT (FBIT) at Ontario Tech University, from the years 2017 to 2022. The dataset used for this analysis is a Microsoft Excel spreadsheet which was provided in the Advanced Business Intelligence (BUSI 4504U) course at Ontario Tech University. This dataset includes the total number of enrollments in various majors within FBIT along with their respective major code, class code, and year. This dashboard is intended for key stakeholders within the FBIT administration at Ontario Tech University and provides a comparison of enrollment in business majors, IT majors, and master's programs. The essence of this analysis is to provide a comparison of trends seen in enrollment in these areas throughout the years. FBIT administration can use these insights to help make informed decisions regarding these programs and ultimately how to increase enrollment at FBIT programs in Ontario Tech University.
+This Power BI dashboard examines enrollment trends in the Faculty of Business and IT (FBIT) at Ontario Tech University from 2017 to 2022. The dataset was provided in the Advanced Business Intelligence course at Ontario Tech University.
+
+The analysis focuses on three areas of FBIT enrollment: business majors, IT majors, and master’s programs. This dashboard incorporates custom visuals such as the Sankey and Chord diagrams. A key challenge was interpreting these visuals without filters, as the relationships were initially unclear. However, filtering revealed valuable insights.
+
+Findings highlight programs with high enrollment but declining trends, as well as those with lower enrollment but increasing interest. Undergraduate programs were generally more popular than graduate programs. These insights can help FBIT administration refine curricula and develop targeted marketing strategies to boost enrollment where needed.
 
 Please [click here](https://app.fabric.microsoft.com/view?r=eyJrIjoiZTBiMzg5NDctZTlkNi00NzBhLTkxNTgtMjQyOTRjZTdmN2ZiIiwidCI6IjUxY2NhMGUxLTJkNWEtNGQxYi1hYTlhLWRkYWFhNzhhZWVjMiJ9) to view and interact with the Power BI Dashboard.
+
+![65921488](https://github.com/user-attachments/assets/0a2cace1-fc6f-4774-af0e-faaa3e8a006e)
+

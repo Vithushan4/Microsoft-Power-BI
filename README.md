@@ -10,7 +10,7 @@ This dashboard serves as a comprehensive tool to explore long-term trends in ess
 
 Please [click here](https://app.powerbi.com/view?r=eyJrIjoiYmQ1YzgxMGYtOWI3My00MmI1LWE3YWItOWQyNDM4NmY1YTBmIiwidCI6IjUxY2NhMGUxLTJkNWEtNGQxYi1hYTlhLWRkYWFhNzhhZWVjMiJ9) to view and interact with the Power BI Dashboard. 
 
-![d9ebf951](https://github.com/user-attachments/assets/8f9d47fa-9b12-4d71-9a8e-38e4b99aeb67)
+<img width="936" alt="Dashboard 1" src="https://github.com/user-attachments/assets/49dab4d7-eddc-4686-a30b-5664291d4c40" />
 
 
 # FBIT Enrollment Trends at Ontario Tech University

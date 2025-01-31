@@ -22,5 +22,6 @@ Findings highlight programs with high enrollment but declining trends, as well a
 
 Please [click here](https://app.fabric.microsoft.com/view?r=eyJrIjoiZTBiMzg5NDctZTlkNi00NzBhLTkxNTgtMjQyOTRjZTdmN2ZiIiwidCI6IjUxY2NhMGUxLTJkNWEtNGQxYi1hYTlhLWRkYWFhNzhhZWVjMiJ9) to view and interact with the Power BI Dashboard.
 
-![65921488](https://github.com/user-attachments/assets/0a2cace1-fc6f-4774-af0e-faaa3e8a006e)
+<img width="934" alt="Screenshot 2025-01-30 at 19 42 04" src="https://github.com/user-attachments/assets/9d0b5b55-f986-4611-b18d-734ddcbdec66" />
+
 

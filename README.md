@@ -1,7 +1,7 @@
 # Microsoft Power BI
 A collection of interactive Power BI dashboards showcasing skills in data analysis, visualization, and business intelligence. These projects demonstrate abilities in data modeling, report design, and building custom visualizations.
 
-# Analysis on Essential Cost of Living (CPI Index)
+# Analysis on Essential Costs of Living (CPI Index)
 This Power BI dashboard analyzes the average essential costs of living before and after the pandemic using data from the Consumer Price Index (2003-2023) by Statistics Canada. The focus is on four key categories: food, shelter, transportation, and energy—critical for survival.
 
 The analysis involved data cleaning, importing, and visualization to identify trends. Key findings show a significant rise in essential costs, with energy prices peaking in 2022. While Power BI provided diverse visualization and formatting options, the interface initially posed challenges due to its layout. However, with continued use, navigation became more intuitive.
